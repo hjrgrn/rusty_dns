@@ -1,0 +1,11 @@
+[local_server]
+addr = "127.0.0.1"
+port = 5000
+
+[root_server]
+addr = "198.41.0.4"
+port = 53
+
+[database]
+path = "instance/database.sqlite"
+migrations_dir = "./migrations"
