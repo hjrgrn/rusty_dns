@@ -1,6 +1,7 @@
 [package]
 name = "rusty_dns"
 version = "0.1.0"
+authors = ["hjrgrn <187955624+hjrgrn@users.noreply.github.com>"]
 edition = "2021"
 default-run = "rusty_dns"
 
